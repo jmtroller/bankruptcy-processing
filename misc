@@ -1,0 +1,100 @@
+[2025-07-05 02:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 02:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 02:00:39] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 03:00:25] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 03:00:25] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 03:00:26] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 03:00:26] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 03:00:53] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 04:00:24] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 04:00:24] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 04:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 04:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 04:00:39] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 05:00:02] development.INFO: Invoking Stripe with service: TRBK  
+[2025-07-05 05:00:03] development.INFO: Invoking Stripe with service: BKO  
+[2025-07-05 05:00:24] development.INFO: No cost found for c51a8f7ea1fde8ab678a88b3090444a06868ace9e83c0  
+[2025-07-05 05:00:27] development.INFO: No cost found for c51a8f7ea1fde8ab678a88b3090444a06868ace9e6ed4  
+[2025-07-05 05:00:28] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 05:00:28] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 05:00:29] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 05:00:29] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 05:00:42] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 06:00:25] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 06:00:25] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 06:00:26] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 06:00:26] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 06:00:39] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 07:00:23] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 07:00:23] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 07:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 07:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 07:00:37] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 08:00:24] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 08:00:24] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 08:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 08:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 08:00:37] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 09:00:24] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 09:00:24] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 09:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 09:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 09:00:45] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 10:00:23] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 10:00:23] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 10:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 10:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 10:00:39] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 11:00:24] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 11:00:24] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 11:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 11:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 11:00:37] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 12:00:24] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 12:00:24] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 12:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 12:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 12:00:37] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 13:00:38] development.INFO: No cost found for 431dfe5386d90a1913b031b73c6eff7068691d3fed4f3  
+[2025-07-05 13:00:39] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 13:00:39] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 13:00:40] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 13:00:40] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 13:00:52] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 14:00:23] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 14:00:23] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 14:00:24] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 14:00:24] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 14:00:36] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 15:00:24] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 15:00:24] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 15:00:26] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 15:00:26] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 15:00:38] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 16:00:23] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 16:00:23] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 16:00:24] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 16:00:24] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 16:00:37] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 17:00:23] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 17:00:23] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 17:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 17:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 17:00:37] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 18:00:24] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 18:00:24] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 18:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 18:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 18:00:38] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 19:00:23] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 19:00:23] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 19:00:24] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 19:00:24] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 19:00:38] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 20:00:23] development.ERROR: Document pull trouble with docketId: 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5  
+[2025-07-05 20:00:23] development.ERROR: PacerDocument page count problem with 93f2213f34ef24325a0d8d5479dfd585684e5584a28d5 error:  
+[2025-07-05 20:00:25] development.ERROR: Document pull trouble with docketId: 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915  
+[2025-07-05 20:00:25] development.ERROR: PacerDocument page count problem with 7ce84094f5c9c73656e8a798f3bfe6af684e5e30d4915 error:  
+[2025-07-05 20:00:37] development.ERROR: PacerDocument page count problem with 888c5e4a6ffd3fbf1c69e01f185fe44068400173b3083 error:A non-numeric value encountered  
+[2025-07-05 20:19:35] development.INFO: InforuptcyParser processDocuments called with clientCode: InforuptcyParser-ProcessDocuments  
+[2025-07-05 20:19:38] development.INFO: InforuptcyParser processDocuments completed successfully  
